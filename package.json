@@ -1,0 +1,27 @@
+{
+  "name": "Studyinbudapest",
+  "version": "1.0.0",
+  "description": "Study in Budapest",
+  "main": "goziextech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*", 
+    "mongoose": "*",
+    "nodemailer": "^4.4.1",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  },
+  "author": "Goziex Technologies Limited",
+  "license": "ISC"
+}
